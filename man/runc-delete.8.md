@@ -4,7 +4,7 @@
 # SYNOPSIS
    runc delete <container-id>
 
-Where "<container-id>" is the name for the instance of the container.
+Where "\<container-id\>" is the name for the instance of the container.
 
 # EXAMPLE
 For example, if the container id is "ubuntu01" and runc list currently shows the

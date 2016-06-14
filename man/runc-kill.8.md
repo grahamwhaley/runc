@@ -4,8 +4,8 @@
 # SYNOPSIS
    runc kill <container-id> <signal>
 
-Where "<container-id>" is the name for the instance of the container and
-"<signal>" is the signal to be sent to the init process.
+Where "\<container-id\>" is the name for the instance of the container and
+"\<signal\>" is the signal to be sent to the init process.
 
 # EXAMPLE
 
